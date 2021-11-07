@@ -1,7 +1,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom";
-import ReactPaginate from 'react-paginate';
+
 
 
 class App extends React.Component {
